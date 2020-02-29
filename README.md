@@ -1,1 +1,1 @@
-# praticando-git
+# treinando-git
